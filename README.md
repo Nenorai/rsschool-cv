@@ -1,1 +1,2 @@
-# Repository for RS School cources
+# RS School
+Repository for RS School cources
