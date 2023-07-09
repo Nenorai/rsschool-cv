@@ -35,9 +35,11 @@ int makeNegative(int num)
 ```
 ---
 ## My works
+
 Some practice in computer architecture using C++ link: [Link](https://github.com/Nenorai/APCode).
 ---
 ## Education
+
 [Faculty of Computer Systems and Networks](https://www.bsuir.by/ru/fksis) - graduated since 2023.
 ---
 ## English B2 level.
