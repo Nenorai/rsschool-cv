@@ -9,7 +9,7 @@
 + GitHub: [Nenorai](https://github.com/Nenorai)
 ---
 ## About Me
-  Little info about me: Hey, I am a dev full of energy and enthusiasm, especially open for new challenges and work.
+  Hey, I am a dev full of energy and enthusiasm, especially open for new challenges and work.
 So, i started my practice with learning C/C++ lessons in university. Next step in my education is learning computer architecture.
 Last year i finished practicing with computer networks, so now i am a graduating system engineer. In free time i am interesting im mobile development.
 Now i am working on my own Flutter prject named SMARTFIN.
