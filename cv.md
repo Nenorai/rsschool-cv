@@ -5,8 +5,14 @@
 + Phone number: +375(29)8047042
 + Telegram: @NotoriousNuprey
 + Discord: Nenorai#5680
-+ VK: @aspecial8
++ VK: [Antony](https://m.vk.com/aspecial8)
 + GitHub: [Nenorai](https://github.com/Nenorai)
+---
+## About Me
+  Little info about me: Hey, I am a dev full of energy and enthusiasm, especially open for new challenges and work.
+So, i started my practice with learning C/C++ lessons in university. Next step in my education is learning computer architecture.
+Last year i finished practicing with computer networks, so now i am a graduating system engineer. In free time i am interesting im mobile development.
+Now i am working on my own Flutter prject named SMARTFIN.
 
 
 1. Initials: Antony Nupreychik
