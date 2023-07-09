@@ -1,9 +1,12 @@
 # Anton Nupreychik
 ---
-##Contacts
+## Contacts
 ---
 + Phone number: +375(29)8047042
-
++ Telegram: @NotoriousNuprey
++ Discord: Nenorai#5680
++ VK: @aspecial8
++ GitHub: [Nenorai](https://github.com/Nenorai)
 
 
 1. Initials: Antony Nupreychik
