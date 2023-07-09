@@ -22,7 +22,8 @@ Now i am working on my own Flutter prject named SMARTFIN.
 - PostgreSQL
 ---
 ## Code example
-`int makeNegative(int num)
+```
+int makeNegative(int num)
    {
      if(num<=0){
        return num;
@@ -30,7 +31,8 @@ Now i am working on my own Flutter prject named SMARTFIN.
      else{
        return -num;
      }
-   }`
+   }
+```
 ---
 ## My works
 Some practice in computer architecture using C++ link: [Link](https://github.com/Nenorai/APCode).
