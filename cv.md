@@ -13,6 +13,23 @@
 So, i started my practice with learning C/C++ lessons in university. Next step in my education is learning computer architecture.
 Last year i finished practicing with computer networks, so now i am a graduating system engineer. In free time i am interesting im mobile development.
 Now i am working on my own Flutter prject named SMARTFIN.
+---
+## My Skills
+- C/C++
+- Python
+- Dart
+- Kotlin
+---
+## Code example
+`int makeNegative(int num)
+   {
+     if(num<=0){
+       return num;
+     }
+     else{
+       return -num;
+     }
+   }`
 
 
 1. Initials: Antony Nupreychik
