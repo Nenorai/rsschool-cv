@@ -1,2 +1,1 @@
-# RS School
-## [CV#1 Markdown](https://nenorai.github.io/rsschool-cv/cv)
+#[CV3# HTML & CSS](https://nenorai.github.io/rsschool-cv)
