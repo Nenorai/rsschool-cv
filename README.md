@@ -1,1 +1,1 @@
-#https://Nenorai.github.io/rsschool-cv/
+#![](https://Nenorai.github.io/rsschool-cv/)
