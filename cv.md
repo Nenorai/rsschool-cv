@@ -42,5 +42,6 @@ int makeNegative(int num)
 
   - [Faculty of Computer Systems and Networks](https://www.bsuir.by/ru/fksis) - graduated since 2023.
 ---
-## English B2 level.
+## English 
+  - B2 level.
 
